@@ -137,7 +137,7 @@ int main(void)
 
         if (winnerText)
         {
-            textHint = "Hint: Press SPACEBAR to play again.";
+            textHint = " Press SPACEBAR to play again.";
         }
 
         if (winnerText && IsKeyPressed(KEY_SPACE))
