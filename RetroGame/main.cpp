@@ -164,7 +164,7 @@ int main(void)
             DrawText(textHint, GetScreenWidth() / 2 - (-10) - textHintWidth / 2, GetScreenHeight() / 2 - (-40), 18, WHITE);
         }
 
-        DrawFPS(10, 10);
+       
         EndDrawing();
     }
 
